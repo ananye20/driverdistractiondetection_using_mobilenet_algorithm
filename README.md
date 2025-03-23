@@ -1,4 +1,4 @@
-# driverdistractiondetection_using_mobilenet_algorithm
+# Driver Distraction Detection using MobileNet Algorithm
 
 Driver distraction is a leading cause of road accidents worldwide. This project leverages **MobileNetV2** and computer vision to classify 10 types of driver distractions (texting, talking, adjusting radio, etc.) using the [State Farm Distracted Driver Dataset](https://www.kaggle.com/c/state-farm-distracted-driver-detection). Achieves **~86% validation accuracy** with transfer learning and data augmentation.
 
@@ -7,7 +7,7 @@ Driver distraction is a leading cause of road accidents worldwide. This project 
 
 ## Technologies Used 🛠️  
 - **Framework**: TensorFlow/Keras  
-- **Model Architecture**: MobileNetV2 + Custom Classification Head  
+- **Model Architecture**: MobileNetV2
 - **Tools**: 
   - OpenCV (image processing)
   - scikit-learn (metrics)
